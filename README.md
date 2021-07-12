@@ -5,6 +5,8 @@
 
 __Web Site__
 
-https://dawkc.github.io/friendly-parakeet/
+https://dawkc.github.io/friendly-parakeet-password-generator/
+
+
 
 
